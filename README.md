@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?Preethigrace-7=sweetie123&style=flat-square&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=Preethigrace-7&style=flat-square&color=0e75b6)
 
 I’m currently exploring opportunities in the VLSI field. Passionate about digital design, RTL, and ASIC flow.
 
