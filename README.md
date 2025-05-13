@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently exploring opportunities in the VLSI field. Passionate about digital design, RTL, and ASIC flow.
+
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Preethigrace-7&style=flat-square&color=0e75b6)
-
-I’m currently exploring opportunities in the VLSI field. Passionate about digital design, RTL, and ASIC flow.
 
