@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Views](https://count.getloli.com/get/@Preethigrace-7?theme=rule34)
+
+![Profile Views](https://komarev.com/ghpvc/?Preethigrace-7=sweetie123&style=flat-square&color=0e75b6)
+
+I’m currently exploring opportunities in the VLSI field. Passionate about digital design, RTL, and ASIC flow.
+
